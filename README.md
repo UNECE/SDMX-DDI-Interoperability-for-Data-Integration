@@ -15,4 +15,7 @@ See original [activity proposal](https://unece.org/sites/default/files/2024-11/H
 -	[Use of concepts at different granularities in CDI] (conceptual variables, conceptual domains, etc.) (Dan)
 
 ## Fourth call
--	CDI Data description (Flavio)
+-	[DDI Codebook to SDMX (Edgardo)]
+
+## Fifth call
+-	Data description in DDI-CDI (Flavio)
