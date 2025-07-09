@@ -27,7 +27,7 @@ See original [activity proposal](https://unece.org/sites/default/files/2024-11/H
 -	
 
 ## Call (8-7-2025)
--	[A proposal](2025-07-08/SDMX-DDI contextual mapping.jpg) for attempting a mapping
+-	[A proposal](https://github.com/UNECE/SDMX-DDI-Interoperability-for-Data-Integration/tree/9b344db98178cd0681d2b3f157ff048d1b6388a7/2025-07-08) for attempting a mapping
 
 
 
