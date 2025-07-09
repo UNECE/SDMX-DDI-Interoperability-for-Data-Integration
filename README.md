@@ -27,7 +27,7 @@ See original [activity proposal](https://unece.org/sites/default/files/2024-11/H
 -	
 
 ## Call (8-7-2025)
--	A proposal for attempting a mapping
+-	[A proposal](2025-07-08/SDMX-DDI contextual mapping.jpg) for attempting a mapping
 
 
 
