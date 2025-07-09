@@ -21,13 +21,16 @@ See original [activity proposal](https://unece.org/sites/default/files/2024-11/H
 -	Data description in DDI-CDI (Flavio)
 
 ## Call 3-6-2025
--	
+-	Presentation "diagrams 2" (Luis)
+-	Presentation "Recap and update" (Flavio)
+-	CodeList mapping (Flavio)
 
 ## Call 26-6-2025
--	
+-	DDI products mappings (Wendy)
+- Tentative SDMX-DDI fragment for data (Flavio)
 
 ## Call (8-7-2025)
--	[A proposal](https://github.com/UNECE/SDMX-DDI-Interoperability-for-Data-Integration/tree/9b344db98178cd0681d2b3f157ff048d1b6388a7/2025-07-08) for attempting a mapping
+-	[A proposal](https://github.com/UNECE/SDMX-DDI-Interoperability-for-Data-Integration/tree/9b344db98178cd0681d2b3f157ff048d1b6388a7/2025-07-08) for attempting a mapping (Flavio)
 
 
 
